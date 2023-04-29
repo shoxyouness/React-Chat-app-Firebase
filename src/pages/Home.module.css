@@ -1,0 +1,13 @@
+.home{
+    width: 65%;
+    border: 1px solid #fff;
+    display: grid;
+    grid-template-columns: 35% auto;
+    grid-auto-rows: 600px;
+    background: linear-gradient(to right, #2b2b2c, #232126);
+}
+.home h1{
+    text-align: center;
+    margin: auto 0;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+.input{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin:0px;
+}
+.input label{
+    font-size: 20px;
+}
+.input input{
+    flex-basis: 365px;
+    height: 40px;
+    font-size: 22px;
+    background-color: rgba(169, 169, 169, 0.178);
+    border:2px solid #fff;
+    padding: 0 1rem;
+    color: #fff;
+   
+}

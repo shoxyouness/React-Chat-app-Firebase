@@ -1,0 +1,31 @@
+.inputContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    border-top: 1px solid grey;
+
+}
+.inputContainer input{
+    border: none;
+    outline: none;
+    font-size: 18px;
+    width: 100%;
+    padding:0 20px;
+    height: 100%;
+    background: linear-gradient(to right, #2b2b2c, #232126);
+    color:#fff;
+    
+} 
+.InputControllers{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.InputControllers img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}

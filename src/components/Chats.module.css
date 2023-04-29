@@ -1,0 +1,39 @@
+
+.userChat {
+    flex-grow: 2;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    height: 100%;
+    align-items: center;
+    
+}
+
+
+.userChat:hover {
+    background-color:rgb(209, 2, 255)
+}
+
+.userInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.userInfo span {
+    font-size: 18px;
+    font-weight: 500;
+    color: #fffafa;
+}
+.userInfo p {
+    margin: 0;
+    color: #e0e0e0;
+    font-size: 12px;
+}
+
+.userChat img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
