@@ -1,3 +1,11 @@
+#About The Project
+
+This Project is Realtime webChat build using Reactjs and Firebase.
+
+//To run The Code u need to Install All dependencies:
+npm install
+npm install firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
